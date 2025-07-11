@@ -1,4 +1,4 @@
-# 3D-Primitive-Object
+# My3DObjectPrimitives
 This project is about turning primitive shapes into new objects
 
 Reflection answers
